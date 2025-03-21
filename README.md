@@ -32,7 +32,7 @@ pip install requests
 # 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/x4ldr1t89z/ByteNetScanner.git
+git clone https://github.com/lainwiredcomputer/ByteNetScanner.git
 ```
 - Navigate into the project directory:
 ```bash
